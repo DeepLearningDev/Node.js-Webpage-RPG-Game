@@ -20,7 +20,7 @@ This project is a 2D side-scrolling RPG adventure game built using Phaser.js, a 
 
 To run the game locally on your machine, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/2d-rpg-adventure.git`
+1. Clone this repository to your local machine using `git clone https://github.com/DeepLearningDev/2d-rpg-adventure.git`
 2. Navigate to the project directory: `cd 2d-rpg-adventure`
 3. Install dependencies using your preferred package manager:
    - Using npm: `npm install`
